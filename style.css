@@ -1,0 +1,59 @@
+body{
+	width: 820px;
+	margin-right: 0;
+	
+}
+
+th,td{
+  border: .5px solid;
+  font-size: 25px;
+}
+td{
+  height:40px;
+  border: 0.01px solid;
+}
+table{
+  margin: 50px 0 0;
+  }
+
+
+.job{
+  padding: .5px .5px;
+}
+.date{
+  padding: .5px 20px;
+}
+.bill{
+  padding: .5px 2px;
+}
+.work{
+  padding: .5px 30px;
+}
+.design{
+  padding: .5px 40px;
+}
+.pcs{
+  padding: .5px 3px;
+}
+.rate{
+  padding: .5px;
+}
+.total{
+  padding: .5px 8px;
+}
+.gst{
+  padding: .5px 0;
+  padding-bottom: 8px;
+  font-family: sans-serif;
+}
+.merchant{
+	padding: .5px 20px;
+}
+
+.footer{
+  width: 766px;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+  
+}
